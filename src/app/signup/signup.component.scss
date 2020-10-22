@@ -1,0 +1,106 @@
+.main-div {
+    background-color:#F0F4F3;
+}
+    .main-div mat-card{
+        padding:0px;
+        border-radius:10px ;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        height: 500px;
+        width: 800px;
+}
+
+.signin
+{
+    background-color:#38b593 ;
+    height: 500px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+#signinbtn{
+    // border-radius: 15;
+    background-color: #38b593;
+    border-color: white;
+    color: #fff;
+}
+h1{
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 32px;
+    text-align: center;
+    padding: 0px;
+  }
+  #create_acc{
+    color: #38b593;
+  }
+  p{
+      font-weight: 100;
+      font-size: 14px;
+      line-height: 20px;
+      color:#fff;
+      letter-spacing: 0.5px;
+      margin:20px 0 30px;
+      text-align: center;
+
+  }
+  span{
+      font-size: 12px;
+      text-align: center;
+      margin-left: 125px;
+      background-color: #F6F6F6;
+  }
+  a{
+      text-decoration: none;
+      color:#333;
+      font-size: 14px;
+      margin:15px 0;
+  }
+ button{
+     border-radius: 20px;
+     border:1px solid  #38b593;
+     background-color: #38b593;
+     color:#FFFFFF;
+     font-size: 12px;
+     font-weight: bold;
+     padding: 12px 45px;
+     letter-spacing: 1px;
+     text-transform: uppercase;
+   
+
+ }
+ button.ghost{
+ background-color: #38b593;
+ border-color:#FFFFFF;
+ margin-left: 70px;
+ border-radius: 20px;
+ }
+
+ form{
+     background-color: #FFFFFF;
+     display: flex;
+     align-items:center;
+     justify-content: center;
+     flex-direction:column;
+     padding: 0px 50px;
+     height:100%;
+     text-align: center;
+ }
+
+ input{
+    background-color: #F4F8F7;
+    border:none;
+    padding: 10px;
+    margin:8px 0px;
+    width:100%;
+    font-size: 13px;
+ }
+ .signup{
+  height: 500px;
+  background-color:#FFFFFF;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+ }
+.signupbtn{
+margin-left: 130px;
+align-items: center;
+margin-top: 20px;
+}
